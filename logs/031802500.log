@@ -1,0 +1,161 @@
+Now juding: 031802500
+
+[+] Test: 0.7_add
+[+] Running(33216): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_add.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(33216) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_add.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_del
+[+] Running(8784): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_del.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(8784) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_del.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_dis_1
+[+] Running(29836): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_1.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(29836) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_1.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_dis_10
+[+] Running(22808): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_10.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(22808) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_10.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_dis_15
+[+] Running(33056): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_15.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(33056) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_15.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_dis_3
+[+] Running(26496): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_3.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(26496) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_3.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_dis_7
+[+] Running(30556): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_7.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(30556) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_7.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_mix
+[+] Running(19680): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_mix.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(19680) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_mix.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_orig
+[+] Running(21440): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(21440) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.7_rep
+[+] Running(20820): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_rep.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(20820) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_rep.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_add
+[+] Running(29808): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_add.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(29808) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_add.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_del
+[+] Running(31704): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_del.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(31704) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_del.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_dis_1
+[+] Running(25524): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_1.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(25524) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_1.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_dis_10
+[+] Running(23148): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_10.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(23148) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_10.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_dis_15
+[+] Running(24400): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_15.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(24400) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_15.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_dis_3
+[+] Running(22028): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_3.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(22028) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_3.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_dis_7
+[+] Running(1456): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_7.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(1456) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_dis_7.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_mix
+[+] Running(27468): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_mix.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(27468) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_mix.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_orig
+[+] Running(25012): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(25012) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11
+
+[+] Test: 0.9_rep
+[+] Running(29096): ['python3', 'E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_rep.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[+] Process(29096) exited.
+[STATUS] JUDGE_STATUS.OK
+[STDOUT] ['E:\\Python\\Projects\\AutoJudger\\src\\031802500\\main.py', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_rep.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[STDERR] None
+[ANSWER] 0.11

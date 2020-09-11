@@ -1,0 +1,94 @@
+Now juding: 031802501
+
+[+] Test: 0.7_add
+[+] Running(29828): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_add.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(29828) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_del
+[+] Running(2068): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_del.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(2068) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_dis_1
+[+] Running(9212): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_1.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(9212) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_dis_10
+[+] Running(27020): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_10.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(27020) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_dis_15
+[+] Running(32704): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_15.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(32704) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_dis_3
+[+] Running(15288): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_3.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(15288) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_dis_7
+[+] Running(8832): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_dis_7.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(8832) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_mix
+[+] Running(31452): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_mix.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(31452) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_orig
+[+] Running(11296): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(11296) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.7_rep
+[+] Running(3544): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.7\\orig_0.7_rep.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
+[-] Timeout!
+[+] Process(3544) exited.
+[STATUS] JUDGE_STATUS.TIMEOUT
+[STDOUT] None
+[STDERR] None
+[ANSWER] -2
+
+[+] Test: 0.9_add
+[+] Running(20556): ['E:\\Python\\Projects\\AutoJudger\\src\\031802501\\main.exe', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_orig.txt', 'E:\\Python\\Projects\\AutoJudger\\data\\sim_0.9\\orig_0.9_add.txt', 'E:\\Python\\Projects\\AutoJudger\\ans.txt']
